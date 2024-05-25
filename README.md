@@ -1,4 +1,4 @@
- Data Scientist
+iOS Developer - Dawei Hao
 
 #### Technical Skills: Swift
 
