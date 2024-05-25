@@ -3,7 +3,7 @@
 ## E-mail
 <dwsamurai84@gmail.com>
 
-## iOS Developer
+* iOS Developer
 Taipei, Taiwan
 
 我是一名具有零售採購經驗的開發者，同時也是一位熱愛蘋果產品的果粉。在我的零售工作期間，經常面臨庫存管理的挑戰，這激發了我開發庫存App的想法。為了實現這一目標，我開始自學Swift並參加了彼得潘的課程，這讓我深入理解了App開發的技巧。
