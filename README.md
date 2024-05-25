@@ -13,7 +13,6 @@ Through this learning journey, I successfully developed an inventory management 
 
 ## 過去工作經歷 (Work Experience)
 
-### 工作經歷
 **IKEA_宜家家居股份有限公司**  
 2017/6 - 2024/6
 我在IKEA宜家家居股份有限公司擔任多個角色，包括Racking Manager和Racking Specialist，累計工作經驗超過五年。
@@ -22,6 +21,7 @@ Through this learning journey, I successfully developed an inventory management 
 
 
 ## iOS Projects
+
 
 ## Education
 **華梵大學**  
