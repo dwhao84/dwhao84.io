@@ -12,6 +12,18 @@ I am a developer with retail procurement experience, and I am also a passionate 
 Through this learning journey, I successfully developed an inventory management app that not only improved work efficiency but also received positive feedback from users. I plan to continue optimizing this app and exploring more opportunities to solve practical problems using technology.
 
 ## 過去工作經歷 (Work Experience)
+**彼得潘課程**
+*2022/11 - 2023/6*
+ 1.獨力開發 iOS App，上架 App Store。
+ 2.學習最新版的 Swift，iOS SDK，Xcode。
+ 3.學習 Apple 最新技術，包含 UIKit，Dark Mode，SPM。
+ 4.UICollectionViewCompositionalLayout，Widget，UIKit。
+ 5.以 MVC 架構開發記錄 App，實作新增，瀏覽，修改，刪除等基本功能，並結合網路 。
+ 6.RESTful API，資料庫，地圖，動畫等進階技巧。
+ 7.熟悉開發工具 Xcode 和 Playground。
+ 8.利用 Storyboard，xib， 和程式製作 App 畫面。
+
+
 
 **IKEA 宜家家居股份有限公司**  
 *2017/6 - 2024/6*
