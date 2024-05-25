@@ -1,4 +1,5 @@
 # 郝大緯 (Da-Wei, Hao)
+<img src="./Asset/IMG_0170.jpg">
 
 ## iOS Developer
 我是一名具有零售採購經驗的開發者，同時也是一位熱愛蘋果產品的果粉。在我的零售工作期間，經常面臨庫存管理的挑戰，這激發了我開發庫存App的想法。
@@ -11,10 +12,15 @@ Through this learning journey, I successfully developed an inventory management 
 
 ## 💻 My iOS Projects
 1. [Drink App](https://medium.com/@dwsamurai84_dev)
+> 
 2. [Youbike App](https://github.com/dwhao84/HW-44-JSON-Decoder)
+> https://medium.com/彼得潘的-swift-ios-app-開發教室/hw-47-串接you-bike-api-資料存到core-data-70fa9782e915
 3. [Apple Music App](https://github.com/dwhao84/HW-32_Apple_Music_iOS)
+> https://medium.com/彼得潘的-swift-ios-app-開發教室/hw-32-apple-music-music-player-cc17ee34a175
 4. [Multiple Choice App](https://github.com/dwhao84/HW36_MultipleChoiceChallenge)
-
+> https://medium.com/彼得潘的-swift-ios-app-開發教室/hw36-multiple-choice-選擇題-d55c2e9e6089
+5. [Psychological test](https://github.com/dwhao84/HW37_PsychologicalTest?source=post_page-----747b1de293f7--------------------------------)
+> https://medium.com/彼得潘的-swift-ios-app-開發教室/hw-37-psychologicaltest-心理測驗-with-storyboard-747b1de293f7
 ## ⚒️ My Personal Content
 [My GitHub](https://github.com/dwhao84)  
 [My Medium](https://medium.com/@dwsamurai84_dev)  
