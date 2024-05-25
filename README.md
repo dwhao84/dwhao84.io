@@ -1,5 +1,8 @@
 # 郝大緯 (Da-Wei, Hao)
 
+## E-mail
+<dwsamurai84@gmail.com>
+
 ## iOS Developer
 Taipei, Taiwan
 
