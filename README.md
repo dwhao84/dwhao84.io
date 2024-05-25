@@ -16,14 +16,14 @@ Through this learning journey, I successfully developed an inventory management 
 **彼得潘課程**  
 *2022/11 - 2023/6*
 
-*1. 獨力開發 iOS App，上架 App Store。
-*2. 學習最新版的 Swift，iOS SDK，Xcode。
-*3. 學習 Apple 最新技術，包含 UIKit，Dark Mode，SPM。
-*4. UICollectionViewCompositionalLayout，Widget，UIKit。
-*5. 以 MVC 架構開發記錄 App，實作新增，瀏覽，修改，刪除等基本功能，並結合網路。
-6. RESTful API，資料庫，地圖，動畫等進階技巧。
-7. 熟悉開發工具 Xcode 和 Playground。
-8. 利用 Storyboard，xib，和程式製作 App 畫面。
+1. 獨力開發 iOS App，上架 App Store。
+1. 學習最新版的 Swift，iOS SDK，Xcode。
+1. 學習 Apple 最新技術，包含 UIKit，Dark Mode，SPM。
+1. UICollectionViewCompositionalLayout，Widget，UIKit。
+1. 以 MVC 架構開發記錄 App，實作新增，瀏覽，修改，刪除等基本功能，並結合網路。
+1. RESTful API，資料庫，地圖，動畫等進階技巧。
+1. 熟悉開發工具 Xcode 和 Playground。
+1. 利用 Storyboard，xib，和程式製作 App 畫面。
 
 
 
