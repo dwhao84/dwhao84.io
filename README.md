@@ -15,9 +15,7 @@ Through this learning journey, I successfully developed an inventory management 
 3. [Apple Music App](https://github.com/dwhao84/HW-32_Apple_Music_iOS)
 4. [Multiple Choice App](https://github.com/dwhao84/HW36_MultipleChoiceChallenge)
 
-
 ## 過去工作經歷 (Work Experience)
-
 ### 彼得潘課程
 *2022/11 - 2023/6*
 1. 獨力開發 iOS App，上架 App Store。
