@@ -14,7 +14,8 @@ Through this learning journey, I successfully developed an inventory management 
 ## 過去工作經歷 (Work Experience)
 
 ### 工作經歷
-#### IKEA宜家家居股份有限公司
+**IKEA_宜家家居股份有限公司**  
+2017/6 - 2024/6
 我在IKEA宜家家居股份有限公司擔任多個角色，包括Racking Manager和Racking Specialist，累計工作經驗超過五年。
 在這期間，我負責多個商場的展店和改造計畫，包括新莊店、嘉義店、小巨蛋店和內湖店，處理從訂單、進口、運輸到組裝和庫存管理的整個流程，並帶領團隊在有限時間內完成大規模的專案，累計節省成本達1200萬新台幣。
 除此之外，我還從擔任過Visual Merchandiser(視覺陳列師)，負責商品陳列和商場規劃，充分展現了組織和管理能力。
