@@ -25,8 +25,6 @@ Through this learning journey, I successfully developed an inventory management 
 1. 熟悉開發工具 Xcode 和 Playground。
 1. 利用 Storyboard，xib，和程式製作 App 畫面。
 
-
-
 **IKEA 宜家家居股份有限公司**  
 *2017/6 - 2024/6*
 
