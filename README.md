@@ -9,14 +9,19 @@ I am a developer with retail procurement experience, and I am also a passionate 
 
 Through this learning journey, I successfully developed an inventory management app that not only improved work efficiency but also received positive feedback from users. I plan to continue optimizing this app and exploring more opportunities to solve practical problems using technology.
 
-## iOS Projects
+## 💻 iOS Projects
 1. [Drink App](https://medium.com/@dwsamurai84_dev)
 2. [Youbike App](https://github.com/dwhao84/HW-44-JSON-Decoder)
 3. [Apple Music App](https://github.com/dwhao84/HW-32_Apple_Music_iOS)
 4. [Multiple Choice App](https://github.com/dwhao84/HW36_MultipleChoiceChallenge)
 
-## 過去工作經歷 (Work Experience)
-### 彼得潘課程
+## ⚒️ My Personal Content
+[My GitHub](https://github.com/dwhao84)  
+[My Medium](https://medium.com/@dwsamurai84_dev)  
+[My CakeResume](https://www.cakeresume.com/search?ref=resume_pdf&utm_content=hao-dawei&utm_medium=pdf&utm_source=resume)
+
+## 💼 過去工作經歷 (Work Experience)
+#### 彼得潘課程 (Peter Pan iOS Course)
 *2022/11 - 2023/6*
 1. 獨力開發 iOS App，上架 App Store。
 1. 學習最新版的 Swift，iOS SDK，Xcode。
@@ -27,16 +32,12 @@ Through this learning journey, I successfully developed an inventory management 
 1. 熟悉開發工具 Xcode 和 Playground。
 1. 利用 Storyboard，xib，和程式製作 App 畫面。
 
-### IKEA 宜家家居股份有限公司  
+#### IKEA宜家家居股份有限公司 (IKEA)
 *2017/6 - 2024/6*
 * 我在IKEA宜家家居股份有限公司擔任多個角色，包括Racking Manager和Racking Specialist，累計工作經驗超過五年。在這期間，我負責多個商場的展店和改造計畫，包括新莊店、嘉義店、小巨蛋店和內湖店，處理從訂單、進口、運輸到組裝和庫存管理的整個流程，並帶領團隊在有限時間內完成大規模的專案，累計節省成本達1200萬新台幣。除此之外，我還擔任過Visual Merchandiser（視覺陳列師），負責商品陳列和商場規劃，充分展現了我的組織和管理能力。
 
-## Education
+## 📝 學歷 (Education)
 * 華梵大學 工業設計學系 2013 - 2016
 
-[My GitHub](https://github.com/dwhao84)  
-[My Medium](https://medium.com/@dwsamurai84_dev)  
-[My CakeResume](https://www.cakeresume.com/search?ref=resume_pdf&utm_content=hao-dawei&utm_medium=pdf&utm_source=resume)
-
-## E-mail
+## ✉️ 信箱 (e-mail)
 <dwsamurai84@gmail.com>
