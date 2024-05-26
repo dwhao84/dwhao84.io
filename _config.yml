@@ -1,5 +1,39 @@
-title: Dawei-Hao
-logo: /Asset/profile.png
-#description: text below image
+title: "Dawei-Hao"
+logo: "/Asset/profile.png"
+description: "這是圖片下方的描述文字"
 show_downloads: true
 theme: jekyll-theme-minimal
+
+# 自定義的設置
+author: "Dawei-Hao"
+email: "dwsamurai84@gmail.com"
+Medium: "https://medium.com/@dwsamurai84_dev" 
+url: "http://dwhao84.github.io" # URL of your GitHub Pages site
+
+# 社交媒體鏈接
+social:
+  github: https://github.com/dwhao84
+  linkedin: https://www.linkedin.com/in/your-linkedin-profile
+
+# 導航菜單
+nav:
+  - name: "Home"
+    link: "/"
+  - name: "About"
+    link: "/about"
+  - name: "Projects"
+    link: "/projects"
+  - name: "Blog"
+    link: "/blog"
+  - name: "Contact"
+    link: "/contact"
+
+# 插件（如果需要）
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# 記錄配置
+markdown: kramdown
+highlighter: rouge
