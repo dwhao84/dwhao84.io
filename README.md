@@ -25,9 +25,9 @@ Through this learning journey, I successfully developed an inventory management 
    > [Medium 心理測驗](https://medium.com/彼得潘的-swift-ios-app-開發教室/hw-37-psychologicaltest-心理測驗-with-storyboard-747b1de293f7)
 
 ## ⚒️ My Personal Content
-[My GitHub](https://github.com/dwhao84)  
-[My Medium](https://medium.com/@dwsamurai84_dev)  
-[My CakeResume](https://www.cakeresume.com/search?ref=resume_pdf&utm_content=hao-dawei&utm_medium=pdf&utm_source=resume)
+* [My GitHub](https://github.com/dwhao84)  
+* [My Medium](https://medium.com/@dwsamurai84_dev)  
+* [My CakeResume](https://www.cakeresume.com/search?ref=resume_pdf&utm_content=hao-dawei&utm_medium=pdf&utm_source=resume)
 
 ## 💼 過去工作經歷 (Work Experience)
 #### 彼得潘課程Peter Pan iOS Course *(2022/11 - 2023/6)*
